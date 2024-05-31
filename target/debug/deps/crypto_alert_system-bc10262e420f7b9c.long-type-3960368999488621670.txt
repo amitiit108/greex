@@ -1,1 +1,0 @@
-(Integer, diesel::sql_types::Text, diesel::sql_types::Text, diesel::sql_types::Nullable<Integer>, Double, diesel::sql_types::Text, diesel::sql_types::Text)
